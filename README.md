@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gpmoraes
-- 👀 I’m interested in back-end programing
-- 🌱 I’m currently learning Vue
+- 👀 I’m interested in back-end and front-end programing
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpmoraes&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
