@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpmoraes
-- 👀 I’m interested in back-end and front-end programing
+- 👀 I’m interested in back-end programing
 - 🌱 I’m currently learning Go
 - 📫 How to reach me ...
 
