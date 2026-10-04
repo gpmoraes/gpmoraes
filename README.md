@@ -35,17 +35,6 @@ I'm currently exploring how autonomous agents and deterministic software can wor
 
 I also continue to deepen my work with **Go**, especially concurrency, performance and backend architecture.
 
-## Selected public work
-
-### [SocketPHP](https://github.com/gpmoraes/SocketPHP)
-A small TCP socket implementation in PHP built to explore low-level client/server communication.
-
-### [websocket-client](https://github.com/gpmoraes/websocket-client)
-A lightweight PHP WebSocket client experiment covering connection, framing, sending and receiving data.
-
-### [go-intensive-expert](https://github.com/gpmoraes/go-intensive-expert)
-Hands-on Go studies covering APIs, testing, concurrency, performance, architecture and distributed systems.
-
 ---
 
 <div align="center">
